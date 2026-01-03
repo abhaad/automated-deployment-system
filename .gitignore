@@ -7,3 +7,8 @@ venv/
 
 # Environment variables
 .env
+
+venv/
+__pycache__/
+*.pyc
+dummy-app/
